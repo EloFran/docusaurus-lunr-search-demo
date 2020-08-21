@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lelouch77.github.io',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'lelouch77', // Usually your GitHub org/user name.
+  organizationName: 'EloFran', // Usually your GitHub org/user name.
   projectName: 'docusurus-lunr-search-demo', // Usually your repo name.
   themeConfig: {
     navbar: {
